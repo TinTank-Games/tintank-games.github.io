@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Marvel Superheroes 2.1.0-pre4"
-date:   2024-07-24 00:30:00 -0800
+date:   2024-09-24 00:30:00 -0800
 categories: updates mods marvel-superheroes
 ---
 Hydra has arrived in 2.1.0-pre4.
