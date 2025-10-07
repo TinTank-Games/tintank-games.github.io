@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fish Tanks 1.20.4"
+title:  "Random Item Update"
 date:   2025-10-05 00:30:00 -0800
 categories: updates mods random-item
 ---
