@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Random Item 1.21.11"
-date:   2025-12-17 20:30:00 -0800
+date:   2025-12-17 00:30:00 -0800
 categories: updates mods random-item
 ---
 Random Item v1.5.1 has been released for Minecraft: Java Edition 1.21.11 for both Fabric and NeoForge.
